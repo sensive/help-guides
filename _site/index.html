@@ -1,0 +1,546 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>🛎️ Sensive Help Center | Desk</title>
+<meta name="generator" content="Jekyll v3.4.1" />
+<meta property="og:title" content="🛎️ Sensive Help Center" />
+<meta name="author" content="The Sensive Team" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Knowledge base Jekyll theme." />
+<meta property="og:description" content="Knowledge base Jekyll theme." />
+<link rel="canonical" href="http://localhost:4000/" />
+<meta property="og:url" content="http://localhost:4000/" />
+<meta property="og:site_name" content="Desk" />
+<script type="application/ld+json">
+{"url":"http://localhost:4000/","author":{"@type":"Person","name":"The Sensive Team"},"headline":"🛎️ Sensive Help Center","description":"Knowledge base Jekyll theme.","name":"Desk","@type":"WebSite","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+  <meta property="og:image" content="http://localhost:4000/assets/posts/"/>
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="shortcut icon" type="image/png" href="/assets/img/favicon.png" >
+  <link rel="alternate" type="application/rss+xml" title="Desk" href="/feed.xml">
+  <script src="/assets/js/main.js"></script>
+  
+</head>
+
+    <body>
+
+    
+        
+
+
+
+
+
+<header class="uk-background-center-center uk-background-cover" style="background-color: #3D32DE; background-image: url(http://localhost:4000/assets/posts/);">
+    <div class="uk-overlay-header" style="">
+
+        <nav class="uk-navbar-container uk-navbar-transparent uk-light">
+            <div class="uk-container">
+    <div data-uk-navbar>
+        <div class="uk-navbar-left">
+
+          <a class="uk-navbar-item uk-logo" href="/">
+
+            
+              
+                <img class="uk-logo-inverse" src="http://localhost:4000/assets/posts/logo-light.svg" alt="Desk">
+              
+              
+                <img src="http://localhost:4000/assets/posts/logo-dark.svg" alt="Desk">
+              
+            
+
+          </a>
+
+        </div>
+        <div class="uk-navbar-right">
+            <ul class="uk-navbar-nav uk-visible@m">
+                
+                    
+                    
+                    
+                        <li class="uk-active"><a href="/" >Help</a></li>
+                    
+                
+                    
+                    
+                    
+                        <li><a href="/contact/" >Contact</a></li>
+                    
+                
+            </ul>
+
+            
+
+            <a class="uk-navbar-toggle uk-hidden@m" href="#offcanvas" data-uk-navbar-toggle-icon data-uk-toggle></a>
+
+        </div>
+    </div>
+</div>
+
+        </nav>
+
+        <div class="uk-section section-hero light" data-uk-scrollspy="cls: uk-animation-slide-bottom-small; repeat: true">
+            <div class="uk-container">
+                <h1 class="uk-heading-hero uk-text-center">🛎️ Sensive Help Center</h1>
+                <p class="subtitle uk-text-lead uk-text-center">A collection of resources to use Sensive</p>
+
+                <div class="uk-article-meta uk-text-center">
+                    
+                    
+                    
+
+                </div>
+
+                
+                <div class="hero-search">
+
+                    <!-- Html Elements for Search -->
+                    <div class="uk-position-relative">
+                        <form class="uk-search uk-search-default uk-width-1-1" name="search-hero" onsubmit="return false;">
+                            <span data-uk-search-icon></span>
+                            <input id="hero-search" class="uk-search-input" type="search" placeholder="Search for answers...">
+                        </form>
+                        <ul id="hero-search-results" class="uk-position-absolute uk-width-1-1 uk-list"></ul>
+                    </div>
+
+                    <script>
+                    SimpleJekyllSearch({
+                        searchInput: document.getElementById('hero-search'),
+                        resultsContainer: document.getElementById('hero-search-results'),
+                        noResultsText: '<li>No results found</li>',
+                        searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+                        json: '/search.json'
+                    });
+                    </script>
+
+                </div>
+                
+
+            </div>
+        </div>
+    </div>
+</header>
+
+    
+
+    <main aria-label="Content">
+    
+
+<script>
+function filter(tag) {
+  setActiveTag(tag);
+  showContainer(tag);
+}
+
+function setActiveTag(id) {
+  // loop through all items and remove active class
+  var items = document.getElementsByClassName('card-category');
+  for(var i=0; i < items.length; i++) {
+    items[i].classList.remove('uk-card-primary');
+    items[i].classList.add('uk-card-default');
+  }
+
+  // set the selected id's item to active
+  var item = document.getElementById(id + '-card');
+  if(item) {
+    item.classList.remove('uk-card-default');
+    item.classList.add('uk-card-primary');
+  }
+}
+
+function showContainer(id) {
+  // loop through all lists and hide them
+  var lists = document.getElementsByClassName('category-container');
+  for(var i=0; i < lists.length; i++) {
+    lists[i].classList.add('hidden');
+  }
+
+  // remove the hidden class from the list corresponding to the selected id
+  var list = document.getElementById(id + '-container');
+  var section = document.getElementById('category-section');
+  if(list) {
+    section.classList.remove('hidden');
+    list.classList.remove('hidden');
+  }
+
+}
+</script>
+
+<div class="uk-section uk-section-large uk-background-muted">
+    <div class="uk-container">
+        
+            
+                <h2 class="uk-text-center section-title section-title-primary">Browse All Topics</h2>
+            
+            <div class="uk-child-width-1-4@m uk-grid-match uk-text-center" data-uk-grid>
+            
+                
+                
+                <div>
+                    <div id="getting-started-card" class="uk-card uk-card-default uk-card-hover uk-border-rounded uk-card-body uk-inline card-category">
+                        <a class="uk-position-cover" href="#getting-started-container" data-uk-scroll="duration: 400; offset: 35;" onclick="filter('getting-started');"></a>
+                        
+                        <span data-uk-icon="icon: settings; ratio: 2" class=""></span>
+                        
+                        <h3 class="uk-card-title uk-margin">Getting Started</h3>
+                        
+                        <p>Get your account up and running in just few easy steps</p>
+                        
+                    </div>
+                </div>
+                
+            
+                
+                
+                <div>
+                    <div id="using-sensive-card" class="uk-card uk-card-default uk-card-hover uk-border-rounded uk-card-body uk-inline card-category">
+                        <a class="uk-position-cover" href="#using-sensive-container" data-uk-scroll="duration: 400; offset: 35;" onclick="filter('using-sensive');"></a>
+                        
+                        <span data-uk-icon="icon: credit-card; ratio: 2" class=""></span>
+                        
+                        <h3 class="uk-card-title uk-margin">Using Sensive</h3>
+                        
+                        <p>Managing your account, creating new users and exporting data</p>
+                        
+                    </div>
+                </div>
+                
+            
+                
+                
+                <div>
+                    <div id="sketch-card" class="uk-card uk-card-default uk-card-hover uk-border-rounded uk-card-body uk-inline card-category">
+                        <a class="uk-position-cover" href="#sketch-container" data-uk-scroll="duration: 400; offset: 35;" onclick="filter('sketch');"></a>
+                        
+                        <span data-uk-icon="icon: cog; ratio: 2" class=""></span>
+                        
+                        <h3 class="uk-card-title uk-margin">Sketch</h3>
+                        
+                        <p>Answers to most common configuration issues</p>
+                        
+                    </div>
+                </div>
+                
+            
+                
+                
+                <div>
+                    <div id="figma-card" class="uk-card uk-card-default uk-card-hover uk-border-rounded uk-card-body uk-inline card-category">
+                        <a class="uk-position-cover" href="#figma-container" data-uk-scroll="duration: 400; offset: 35;" onclick="filter('figma');"></a>
+                        
+                        <span data-uk-icon="icon: cog; ratio: 2" class=""></span>
+                        
+                        <h3 class="uk-card-title uk-margin">Figma</h3>
+                        
+                        <p>Answers to most common configuration issues</p>
+                        
+                    </div>
+                </div>
+                
+            
+            </div>
+        
+    </div>
+</div>
+
+<div class="uk-section uk-section-large uk-section-default">
+    <div class="uk-container uk-container-small">
+
+        <div class="uk-article-content">
+</div>
+
+        
+        <div>
+            
+            <h2 class="section-title-primary">Popular Articles
+                <a href="#" data-uk-totop data-uk-scroll="duration: 400" class="uk-float-right uk-margin-small-top"></a>
+            </h2>
+            
+            <ul class="uk-list uk-list-large link-icon-right">
+            
+                <li><a href="/integrations-sketch-plugin/">Download the Sketch plugin</a></li>
+            
+                <li><a href="/integrations-sketch-adding-files/">Adding Sketch files to Sensive</a></li>
+            
+                <li><a href="/integrations-figma-adding-files/">Add Figma files to Sensive</a></li>
+            
+            </ul>
+        </div>
+        
+
+        <div id="category-section" class="uk-margin-large-top hidden">
+            <hr>
+            
+            
+
+            <div id="getting-started-container" class="category-container hidden">
+                <h2 class="section-title-primary">Getting Started
+                    <a href="#" data-uk-totop data-uk-scroll="duration: 400" class="uk-float-right uk-margin-small-top"></a>
+                </h2>
+                <ul class="uk-list uk-list-large link-icon-right uk-margin-remove">
+                
+                    <li><a href="/teams-invite-people/">Invite people to join your team</a></li>
+                
+                    <li><a href="/account-reset-password/">Trouble signing in</a></li>
+                
+                    <li><a href="/account-create-new-account/">Create an account</a></li>
+                
+                </ul>
+            </div>
+            
+            
+
+            <div id="integrations-container" class="category-container hidden">
+                <h2 class="section-title-primary">Integrations
+                    <a href="#" data-uk-totop data-uk-scroll="duration: 400" class="uk-float-right uk-margin-small-top"></a>
+                </h2>
+                <ul class="uk-list uk-list-large link-icon-right uk-margin-remove">
+                
+                    <li><a href="/integrations-sketch-plugin/">Download the Sketch plugin</a></li>
+                
+                    <li><a href="/integrations-sketch-adding-files/">Adding Sketch files to Sensive</a></li>
+                
+                    <li><a href="/integrations-figma-auth/">Authenticating with Figma</a></li>
+                
+                    <li><a href="/integrations-figma-adding-files/">Add Figma files to Sensive</a></li>
+                
+                </ul>
+            </div>
+            
+            
+
+            <div id="figma-container" class="category-container hidden">
+                <h2 class="section-title-primary">Figma
+                    <a href="#" data-uk-totop data-uk-scroll="duration: 400" class="uk-float-right uk-margin-small-top"></a>
+                </h2>
+                <ul class="uk-list uk-list-large link-icon-right uk-margin-remove">
+                
+                    <li><a href="/integrations-figma-auth/">Authenticating with Figma</a></li>
+                
+                    <li><a href="/integrations-figma-adding-files/">Add Figma files to Sensive</a></li>
+                
+                </ul>
+            </div>
+            
+            
+
+            <div id="sketch-container" class="category-container hidden">
+                <h2 class="section-title-primary">Sketch
+                    <a href="#" data-uk-totop data-uk-scroll="duration: 400" class="uk-float-right uk-margin-small-top"></a>
+                </h2>
+                <ul class="uk-list uk-list-large link-icon-right uk-margin-remove">
+                
+                    <li><a href="/integrations-sketch-plugin/">Download the Sketch plugin</a></li>
+                
+                    <li><a href="/integrations-sketch-adding-files/">Adding Sketch files to Sensive</a></li>
+                
+                </ul>
+            </div>
+            
+            
+
+            <div id="teams-container" class="category-container hidden">
+                <h2 class="section-title-primary">Teams
+                    <a href="#" data-uk-totop data-uk-scroll="duration: 400" class="uk-float-right uk-margin-small-top"></a>
+                </h2>
+                <ul class="uk-list uk-list-large link-icon-right uk-margin-remove">
+                
+                    <li><a href="/teams-create-team/">Create a team</a></li>
+                
+                </ul>
+            </div>
+            
+            
+
+            <div id="using-sensive-container" class="category-container hidden">
+                <h2 class="section-title-primary">Using Sensive
+                    <a href="#" data-uk-totop data-uk-scroll="duration: 400" class="uk-float-right uk-margin-small-top"></a>
+                </h2>
+                <ul class="uk-list uk-list-large link-icon-right uk-margin-remove">
+                
+                    <li><a href="/using-sensive-uploading-images/">Uploading images</a></li>
+                
+                    <li><a href="/using-sensive-share-utility/">Share a Collection, Presentation or Board</a></li>
+                
+                    <li><a href="/using-sensive-presentations/">Presentations</a></li>
+                
+                    <li><a href="/using-sensive-collections/">Collections</a></li>
+                
+                </ul>
+            </div>
+            
+            
+
+            <div id="utilities-container" class="category-container hidden">
+                <h2 class="section-title-primary">Utilities
+                    <a href="#" data-uk-totop data-uk-scroll="duration: 400" class="uk-float-right uk-margin-small-top"></a>
+                </h2>
+                <ul class="uk-list uk-list-large link-icon-right uk-margin-remove">
+                
+                    <li><a href="/using-sensive-uploading-images/">Uploading images</a></li>
+                
+                    <li><a href="/using-sensive-share-utility/">Share a Collection, Presentation or Board</a></li>
+                
+                    <li><a href="/using-sensive-presentations/">Presentations</a></li>
+                
+                    <li><a href="/using-sensive-collections/">Collections</a></li>
+                
+                </ul>
+            </div>
+            
+            
+
+            <div id="collections-container" class="category-container hidden">
+                <h2 class="section-title-primary">Collections
+                    <a href="#" data-uk-totop data-uk-scroll="duration: 400" class="uk-float-right uk-margin-small-top"></a>
+                </h2>
+                <ul class="uk-list uk-list-large link-icon-right uk-margin-remove">
+                
+                    <li><a href="/using-sensive-collections/">Collections</a></li>
+                
+                </ul>
+            </div>
+            
+            
+
+            <div id="presentations-container" class="category-container hidden">
+                <h2 class="section-title-primary">Presentations
+                    <a href="#" data-uk-totop data-uk-scroll="duration: 400" class="uk-float-right uk-margin-small-top"></a>
+                </h2>
+                <ul class="uk-list uk-list-large link-icon-right uk-margin-remove">
+                
+                    <li><a href="/using-sensive-presentations/">Presentations</a></li>
+                
+                </ul>
+            </div>
+            
+        </div>
+
+    </div>
+</div>
+
+
+
+<div  class="uk-container uk-container-small"><hr></div>
+<div class="uk-section-large uk-text-center">
+    <div class="uk-container uk-container-small">
+        <div data-uk-scrollspy="cls: uk-animation-slide-bottom-small; repeat: true">
+            <h2 class="section-title-primary">Didn't find an answer to your question?</h2>
+            <p class="subtitle uk-text-lead uk-text-center">Get in touch with us for details on additional services and custom work pricing</p>
+            <a class="uk-button uk-button-primary uk-button-large uk-border-rounded uk-margin-small-top" href="/contact/">Contact Us</a>
+        </div>
+    </div>
+</div>
+
+
+    </main>
+
+    <footer class="uk-section uk-section-muted uk-text-center uk-text-muted uk-link-muted">
+    <div class="uk-container uk-container-small">
+
+        <div>
+            <ul class="uk-subnav uk-flex-center">
+                
+                    
+                    
+                    
+                        <li class="uk-active"><a href="/" >Help</a></li>
+                    
+                
+                    
+                    
+                    
+                        <li><a href="/contact/" >Contact</a></li>
+                    
+                
+            </ul>
+        </div>
+        <div class="uk-margin-medium">
+            <div data-uk-grid class="uk-child-width-auto uk-grid-small uk-flex-center uk-grid">
+                
+<div class="uk-first-column">
+    <a href="https://twitter.com/getsensive" data-uk-icon="icon: twitter" class="uk-icon-link uk-icon" target="_blank"></a>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+<div>
+    <a href="support@sensive.co" data-uk-icon="icon: mail" class="uk-icon-link uk-icon" target="_blank"></a>
+</div>
+
+
+
+            </div>
+        </div>
+        <div class="uk-margin-medium uk-text-small copyright">©2019 <a href="https://sensive.co/">Sensive LLC</a></div>
+
+    </div>
+</footer>
+
+
+    <div id="offcanvas" data-uk-offcanvas="flip: true; overlay: true">
+    <div class="uk-offcanvas-bar">
+
+        <button class="uk-offcanvas-close" type="button" data-uk-close></button>
+
+        <ul class="uk-nav uk-nav-default">
+            <li><a class="uk-logo uk-margin-small-bottom" href="/"></a></li>
+            
+                
+            <li><a href="http://localhost:4000/" >Help</a></li>
+            
+                
+            <li><a href="http://localhost:4000/contact/" >Contact</a></li>
+            
+        </ul>
+
+        <div class="uk-margin-small-top uk-text-center uk-text-muted uk-link-muted">
+            <div data-uk-grid class="uk-child-width-auto uk-grid-small uk-flex-center uk-grid">
+                
+<div class="uk-first-column">
+    <a href="https://twitter.com/getsensive" data-uk-icon="icon: twitter" class="uk-icon-link uk-icon" target="_blank"></a>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+<div>
+    <a href="support@sensive.co" data-uk-icon="icon: mail" class="uk-icon-link uk-icon" target="_blank"></a>
+</div>
+
+
+
+            </div>
+        </div>
+
+    </div>
+</div>
+
+
+    </body>
+
+</html>

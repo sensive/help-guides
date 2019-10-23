@@ -1,0 +1,19 @@
+# Categories home page navigation
+
+- heading: Browse All Topics
+  categories:
+    - title: Getting Started
+      desc: Get your account up and running in just few easy steps
+      icon: settings
+
+    - title: Using Sensive
+      desc: Managing your account, creating new users and exporting data
+      icon: credit-card
+
+    - title: Sketch
+      desc: Answers to most common configuration issues
+      icon: cog
+
+    - title: Figma
+      desc: Answers to most common configuration issues
+      icon: cog
