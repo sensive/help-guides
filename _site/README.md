@@ -21,7 +21,7 @@ Desk was developed by [Ivan Chromjak](https://ivanchromjak.com) for [jekyll.plus
 
 ## Installation
 
-Install the dependencies with [Bundler](http://bundler.io/):
+Install the dependencies with [Bundler](https://bundler.io/):
 
 ```bash
 bundle install
@@ -43,7 +43,7 @@ Add your site and author details in `_config.yml`:
 title:              Desk - Helpdesk Jekyll Theme
 description:        Knowledge base Jekyll theme.
 
-# Site base hostname & protocol, e.g. http://example.com
+# Site base hostname & protocol, e.g. https://example.com
 url:                "https://desk.jekyll.plus"
 
 # Site logo, dark and light depending on page hero text setting dark/light
@@ -55,7 +55,7 @@ logo_image:
 author:
     name:           Jim Smith
     email:          john@somewebsite.com
-    website:        http://somewebsite.com
+    website:        https://somewebsite.com
     facebook:       https://www.facebook.com/
     flickr:         https://flickr.com/
     dribbble:       https://dribbble.com/
@@ -191,13 +191,13 @@ Add the following code at the top of the post:
 Embed local videos:
 ```html
 <video controls playsinline uk-video="automute: true">
-    <source src="http://www.quirksmode.org/html5/videos/big_buck_bunny.mp4" type="video/mp4">
-    <source src="http://www.quirksmode.org/html5/videos/big_buck_bunny.ogv" type="video/ogg">
+    <source src="https://www.quirksmode.org/html5/videos/big_buck_bunny.mp4" type="video/mp4">
+    <source src="https://www.quirksmode.org/html5/videos/big_buck_bunny.ogv" type="video/ogg">
 </video>
 ```
 Embed YouTube videos:
 ```html
-<iframe src="http://www.youtube.com/embed/YE7VzlLtp-4?autoplay=0&amp;showinfo=0&amp;rel=0&amp;modestbranding=1&amp;playsinline=1" width="600" height="340" frameborder="0" allowfullscreen uk-responsive uk-video="automute: true"></iframe>
+<iframe src="https://www.youtube.com/embed/YE7VzlLtp-4?autoplay=0&amp;showinfo=0&amp;rel=0&amp;modestbranding=1&amp;playsinline=1" width="600" height="340" frameborder="0" allowfullscreen uk-responsive uk-video="automute: true"></iframe>
 ```
 
 To create a draft post, create the post file under the `_drafts` directory, and you can find more information in [Working with Drafts](https://jekyllrb.com/docs/drafts/).

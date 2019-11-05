@@ -14,7 +14,7 @@ baseurl:            ""
 # Permalink URLs structure, for permalink style options see: https://jekyllrb.com/docs/permalinks/
 permalink:          /:title/
 
-# Site base hostname & protocol, e.g. http://example.com
+# Site base hostname & protocol, e.g. https://example.com
 url:                "https://help.sensive.co"
 
 # Site logo, dark and light depending on page hero text setting dark/light
