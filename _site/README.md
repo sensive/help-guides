@@ -170,7 +170,7 @@ To keep things more organized, add post images to `/assets/posts/` directory, an
 To add an image to a post or page use the following codes:
 Local image from `/assets/posts/` directory:
 ```yaml
-{% include image.html img="girl.jpg" alt="Alt for image" caption="Girl on a rock" %}
+{% include image.html img="image1.png" alt="Alt for image" caption="Girl on a rock" %}
 ```
 External wide image with lightbox:
 ```yaml

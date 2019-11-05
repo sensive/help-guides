@@ -5,8 +5,8 @@
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
 # Site title and description
-title:              Desk
-description:        Knowledge base Jekyll theme.
+title:              Sensive Help Guides
+description:        Sensive is a better way to manage your team’s design resources
 
 # Site subpath, e.g. /blog
 baseurl:            ""
@@ -15,7 +15,7 @@ baseurl:            ""
 permalink:          /:title/
 
 # Site base hostname & protocol, e.g. http://example.com
-url:                "https://desk.jekyll.plus"
+url:                "https://help.sensive.co"
 
 # Site logo, dark and light depending on page hero text setting dark/light
 logo_image:
