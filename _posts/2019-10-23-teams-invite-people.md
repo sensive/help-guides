@@ -4,7 +4,7 @@ title: Invite people to join your team
 categories: [Getting Started]
 author: Diego Fernandez
 ---
-1. Visit [sensive.co/team](https://sensive.co/team)
+1. Visit [sensive.co/team](https://app.sensive.co/team)
 2. Add teammate email
 3. Click **Send Invite**
 

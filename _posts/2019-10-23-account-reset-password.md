@@ -8,7 +8,7 @@ Before you reset your password verify the information you are entering is correc
 
 **To reset your password**:
 
-- Visit [**sensive.co/passwords/new**](https://sensive.co/passwords/new)
+- Visit [**sensive.co/passwords/new**](https://app.sensive.co/passwords/new)
 - Enter your email
 - Click **Reset Password**
 

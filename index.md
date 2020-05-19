@@ -3,7 +3,7 @@ layout: help
 title: 🛎️ Sensive Help Center
 subtitle: A collection of resources to use Sensive
 hero:
-    background: "#3D32DE"
+    background: "#3658FF"
     image: 
     overlay: 
     align: center

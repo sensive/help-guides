@@ -14,7 +14,7 @@ If you use a design tool other than Sketch, or Figma, you can manually **upload 
 ## Upload Images
 
 ### Select and upload via Uploader
-2. Visit [sensive.co/home](https://sensive.co/home)
+2. Visit [sensive.co/home](https://app.sensive.co/home)
 3. Click **Upload files**
 4. Click **Upload an Image**
 5. Select files by clicking the icon
@@ -24,6 +24,6 @@ If you use a design tool other than Sketch, or Figma, you can manually **upload 
 - You can drag and drop compatible image files on **Home, Collections, Presentations or Cards in Boards**
 
 ### Paste images directly
-You can also paste the contents of your clipboard on **Home, Collections, Presentations, or Boards.**
+You can also paste the contents of your clipboard in the **Files and Collections** pages.
 
 In Mac, you can [press the Control key while you are in capture mode](https://support.apple.com/en-us/HT201361).

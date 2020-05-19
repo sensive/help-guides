@@ -8,7 +8,7 @@ author: Diego Fernandez
 This Sensive Utility is designed to help you **organize and share your designs with anyone**. Collections can contain artboards, frames, and images from one or more design files.
 
 ### Create and add items to a Collection
-1. Visit [sensive.co/home](https://sensive.co/home)
+1. Visit [sensive.co/home](https://app.sensive.co/home)
 2. Click **Create...**
 3. Click **Collection**
 4. Optional: Change collection name
