@@ -1,6 +1,6 @@
 ---
 title: Authenticating with Figma
-date: 2019-10-26 00:00:00 Z
+date: 2019-10-25 20:00:00 -04:00
 categories:
 - Integrations
 - Figma

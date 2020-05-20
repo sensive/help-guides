@@ -1,6 +1,6 @@
 ---
 title: Create a team
-date: 2019-10-23 00:00:00 Z
+date: 2019-10-22 20:00:00 -04:00
 categories:
 - Teams
 layout: post
