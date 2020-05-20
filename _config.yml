@@ -41,7 +41,7 @@ disqus:
   shortname: 
 google_analytics: 
 google_maps_api_key: 
-post_assets: "/assets/articles/"
+post_assets: "/assets/posts/"
 markdown: kramdown
 highlighter: rouge
 gems:
