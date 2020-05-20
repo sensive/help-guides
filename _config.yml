@@ -2,9 +2,6 @@
 title: Sensive Help Guides
 timezone: UTC
 collections:
-  faqs:
-    title: Faqs
-    output: false
   posts:
     title: Posts
     output: true
