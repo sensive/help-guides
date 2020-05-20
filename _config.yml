@@ -5,6 +5,9 @@ collections:
   articles:
     title: Articles
     output: true
+  changelog:
+    title: Changelog
+    output: true
   posts:
     title: Posts
     output: true
