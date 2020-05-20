@@ -17,26 +17,10 @@
     } ,
   
     {
-      "title"    : "Presentations",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/using-sensive-presentations/",
-      "date"     : "2019-10-23 00:00:00 -0400"
-    } ,
-  
-    {
       "title"    : "Collections",
       "category" : "",
       "tags"     : "",
       "url"      : "/using-sensive-collections/",
-      "date"     : "2019-10-23 00:00:00 -0400"
-    } ,
-  
-    {
-      "title"    : "Using Sensive Boards",
-      "category" : "",
-      "tags"     : "",
-      "url"      : "/using-sensive-boards/",
       "date"     : "2019-10-23 00:00:00 -0400"
     } ,
   

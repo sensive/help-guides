@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="https://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.1">Jekyll</generator><link href="https://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="https://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-11-04T21:59:32-05:00</updated><id>https://localhost:4000/feed.xml</id><title type="html">Sensive Help Guides</title><subtitle>Sensive is a better way to manage your team’s design resources</subtitle><author><name>The Sensive Team</name><email>support@sensive.co</email></author><entry><title type="html">Uploading images</title><link href="https://localhost:4000/using-sensive-uploading-images/" rel="alternate" type="text/html" title="Uploading images" /><published>2019-10-23T00:00:00-04:00</published><updated>2019-10-23T00:00:00-04:00</updated><id>https://localhost:4000/using-sensive-uploading-images</id><content type="html" xml:base="https://localhost:4000/using-sensive-uploading-images/">&lt;p&gt;Sensive has integrations with Sketch and Figma&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-19T22:42:05-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Sensive Help Guides</title><subtitle>Sensive is a better way to manage your team’s design resources</subtitle><author><name>The Sensive Team</name><email>support@sensive.co</email></author><entry><title type="html">Uploading images</title><link href="http://localhost:4000/using-sensive-uploading-images/" rel="alternate" type="text/html" title="Uploading images" /><published>2019-10-23T00:00:00-04:00</published><updated>2019-10-23T00:00:00-04:00</updated><id>http://localhost:4000/using-sensive-uploading-images</id><content type="html" xml:base="http://localhost:4000/using-sensive-uploading-images/">&lt;p&gt;Sensive has integrations with Sketch and Figma&lt;/p&gt;
 
 &lt;p&gt;If you use a design tool other than Sketch, or Figma, you can manually &lt;strong&gt;upload your local image files&lt;/strong&gt;. Sensive currently supports:&lt;/p&gt;
 &lt;ul&gt;
@@ -10,7 +10,7 @@
 
 &lt;h3 id=&quot;select-and-upload-via-uploader&quot;&gt;Select and upload via Uploader&lt;/h3&gt;
 &lt;ol&gt;
-  &lt;li&gt;Visit &lt;a href=&quot;https://sensive.co/home&quot;&gt;sensive.co/home&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Visit &lt;a href=&quot;https://app.sensive.co/home&quot;&gt;sensive.co/home&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Click &lt;strong&gt;Upload files&lt;/strong&gt;&lt;/li&gt;
   &lt;li&gt;Click &lt;strong&gt;Upload an Image&lt;/strong&gt;&lt;/li&gt;
   &lt;li&gt;Select files by clicking the icon&lt;/li&gt;
@@ -23,26 +23,26 @@
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;paste-images-directly&quot;&gt;Paste images directly&lt;/h3&gt;
-&lt;p&gt;You can also paste the contents of your clipboard on &lt;strong&gt;Home, Collections, Presentations, or Boards.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;You can also paste the contents of your clipboard in the &lt;strong&gt;Files and Collections&lt;/strong&gt; pages.&lt;/p&gt;
 
-&lt;p&gt;In Mac, you can &lt;a href=&quot;https://support.apple.com/en-us/HT201361&quot;&gt;press the Control key while you are in capture mode&lt;/a&gt;.&lt;/p&gt;</content><author><name>Diego Fernandez</name></author><summary type="html">Sensive has integrations with Sketch and Figma</summary></entry><entry><title type="html">Trouble signing in</title><link href="https://localhost:4000/account-reset-password/" rel="alternate" type="text/html" title="Trouble signing in" /><published>2019-10-23T00:00:00-04:00</published><updated>2019-10-23T00:00:00-04:00</updated><id>https://localhost:4000/account-reset-password</id><content type="html" xml:base="https://localhost:4000/account-reset-password/">&lt;p&gt;Before you reset your password verify the information you are entering is correct.&lt;/p&gt;
+&lt;p&gt;In Mac, you can &lt;a href=&quot;https://support.apple.com/en-us/HT201361&quot;&gt;press the Control key while you are in capture mode&lt;/a&gt;.&lt;/p&gt;</content><author><name>Diego Fernandez</name></author><summary type="html">Sensive has integrations with Sketch and Figma</summary></entry><entry><title type="html">Trouble signing in</title><link href="http://localhost:4000/account-reset-password/" rel="alternate" type="text/html" title="Trouble signing in" /><published>2019-10-23T00:00:00-04:00</published><updated>2019-10-23T00:00:00-04:00</updated><id>http://localhost:4000/account-reset-password</id><content type="html" xml:base="http://localhost:4000/account-reset-password/">&lt;p&gt;Before you reset your password verify the information you are entering is correct.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;To reset your password&lt;/strong&gt;:&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Visit &lt;a href=&quot;https://sensive.co/passwords/new&quot;&gt;&lt;strong&gt;sensive.co/passwords/new&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Visit &lt;a href=&quot;https://app.sensive.co/passwords/new&quot;&gt;&lt;strong&gt;sensive.co/passwords/new&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Enter your email&lt;/li&gt;
   &lt;li&gt;Click &lt;strong&gt;Reset Password&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;figure&gt;
-    &lt;img src=&quot;https://localhost:4000/assets/posts/2019-10-23-account-reset-password.png&quot; alt=&quot;Password reset screen&quot; /&gt;
+    &lt;img src=&quot;http://localhost:4000/assets/posts/2019-10-23-account-reset-password.png&quot; alt=&quot;Password reset screen&quot; /&gt;
     
 &lt;/figure&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Check your email inbox and create a new password when prompted&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Diego Fernandez</name></author><summary type="html">Before you reset your password verify the information you are entering is correct.</summary></entry><entry><title type="html">Add Figma files to Sensive</title><link href="https://localhost:4000/integrations-figma-adding-files/" rel="alternate" type="text/html" title="Add Figma files to Sensive" /><published>2019-10-23T00:00:00-04:00</published><updated>2019-10-23T00:00:00-04:00</updated><id>https://localhost:4000/integrations-figma-adding-files</id><content type="html" xml:base="https://localhost:4000/integrations-figma-adding-files/">&lt;p&gt;To start syncing Figma files to your Sensive account, you first need to authenticate your Figma account.&lt;/p&gt;
+&lt;/ul&gt;</content><author><name>Diego Fernandez</name></author><summary type="html">Before you reset your password verify the information you are entering is correct.</summary></entry><entry><title type="html">Add Figma files to Sensive</title><link href="http://localhost:4000/integrations-figma-adding-files/" rel="alternate" type="text/html" title="Add Figma files to Sensive" /><published>2019-10-23T00:00:00-04:00</published><updated>2019-10-23T00:00:00-04:00</updated><id>http://localhost:4000/integrations-figma-adding-files</id><content type="html" xml:base="http://localhost:4000/integrations-figma-adding-files/">&lt;p&gt;To start syncing Figma files to your Sensive account, you first need to authenticate your Figma account.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
@@ -57,13 +57,13 @@
 &lt;/ul&gt;
 
 &lt;figure&gt;
-    &lt;img src=&quot;https://localhost:4000/assets/posts/2019-10-23-integrations-figma-adding-files-1.png&quot; alt=&quot;Figma share file modal&quot; /&gt;
+    &lt;img src=&quot;http://localhost:4000/assets/posts/2019-10-23-integrations-figma-adding-files-1.png&quot; alt=&quot;Figma share file modal&quot; /&gt;
     
 &lt;/figure&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
-    &lt;p&gt;Visit &lt;a href=&quot;https://sensive.co/home&quot;&gt;&lt;strong&gt;sensive.co/home&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;Visit &lt;a href=&quot;https://app.sensive.co/home&quot;&gt;&lt;strong&gt;sensive.co/home&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Click &lt;strong&gt;Upload File&lt;/strong&gt;&lt;/p&gt;
@@ -80,13 +80,13 @@
 &lt;/ul&gt;
 
 &lt;figure&gt;
-    &lt;img src=&quot;https://localhost:4000/assets/posts/2019-10-23-integrations-figma-adding-files-2.png&quot; alt=&quot;Figma share file modal&quot; /&gt;
+    &lt;img src=&quot;http://localhost:4000/assets/posts/2019-10-23-integrations-figma-adding-files-2.png&quot; alt=&quot;Figma share file modal&quot; /&gt;
     
-&lt;/figure&gt;</content><author><name>Diego Fernandez</name></author><category term="featured" /><summary type="html">To start syncing Figma files to your Sensive account, you first need to authenticate your Figma account.</summary></entry><entry><title type="html">Authenticating with Figma</title><link href="https://localhost:4000/integrations-figma-auth/" rel="alternate" type="text/html" title="Authenticating with Figma" /><published>2019-10-23T00:00:00-04:00</published><updated>2019-10-23T00:00:00-04:00</updated><id>https://localhost:4000/integrations-figma-auth</id><content type="html" xml:base="https://localhost:4000/integrations-figma-auth/">&lt;p&gt;To start syncing Figma files to your Sensive account, you need to sign in into your Sensive and Figma accounts separately.&lt;/p&gt;
+&lt;/figure&gt;</content><author><name>Diego Fernandez</name></author><category term="featured" /><summary type="html">To start syncing Figma files to your Sensive account, you first need to authenticate your Figma account.</summary></entry><entry><title type="html">Authenticating with Figma</title><link href="http://localhost:4000/integrations-figma-auth/" rel="alternate" type="text/html" title="Authenticating with Figma" /><published>2019-10-23T00:00:00-04:00</published><updated>2019-10-23T00:00:00-04:00</updated><id>http://localhost:4000/integrations-figma-auth</id><content type="html" xml:base="http://localhost:4000/integrations-figma-auth/">&lt;p&gt;To start syncing Figma files to your Sensive account, you need to sign in into your Sensive and Figma accounts separately.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
-    &lt;p&gt;Visit &lt;a href=&quot;https://sensive.co/home&quot;&gt;&lt;strong&gt;sensive.co/home&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+    &lt;p&gt;Visit &lt;a href=&quot;https://app.sensive.co/home&quot;&gt;&lt;strong&gt;sensive.co/home&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Click &lt;strong&gt;Upload File&lt;/strong&gt;&lt;/p&gt;
@@ -100,7 +100,7 @@
 &lt;/ul&gt;
 
 &lt;figure&gt;
-    &lt;img src=&quot;https://localhost:4000/assets/posts/2019-10-23-integrations-figma-auth-1.png&quot; alt=&quot;Sensive add file modal&quot; /&gt;
+    &lt;img src=&quot;http://localhost:4000/assets/posts/2019-10-23-integrations-figma-auth-1.png&quot; alt=&quot;Sensive add file modal&quot; /&gt;
     
 &lt;/figure&gt;
 
@@ -109,11 +109,11 @@
 &lt;/ul&gt;
 
 &lt;figure&gt;
-    &lt;img src=&quot;https://localhost:4000/assets/posts/2019-10-23-integrations-figma-auth-2.png&quot; alt=&quot;Figma authorization screen&quot; /&gt;
+    &lt;img src=&quot;http://localhost:4000/assets/posts/2019-10-23-integrations-figma-auth-2.png&quot; alt=&quot;Figma authorization screen&quot; /&gt;
     
 &lt;/figure&gt;
 
-&lt;p&gt;Once authenticated, you can start adding Figma files to Sensive.&lt;/p&gt;</content><author><name>Diego Fernandez</name></author><summary type="html">To start syncing Figma files to your Sensive account, you need to sign in into your Sensive and Figma accounts separately.</summary></entry><entry><title type="html">Adding Sketch files to Sensive</title><link href="https://localhost:4000/integrations-sketch-adding-files/" rel="alternate" type="text/html" title="Adding Sketch files to Sensive" /><published>2019-10-23T00:00:00-04:00</published><updated>2019-10-23T00:00:00-04:00</updated><id>https://localhost:4000/integrations-sketch-adding-files</id><content type="html" xml:base="https://localhost:4000/integrations-sketch-adding-files/">&lt;p&gt;To start syncing Sketch files to your Sensive account, you need to have the Sketch plugin installed and sign in to your account.&lt;/p&gt;
+&lt;p&gt;Once authenticated, you can start adding Figma files to Sensive.&lt;/p&gt;</content><author><name>Diego Fernandez</name></author><summary type="html">To start syncing Figma files to your Sensive account, you need to sign in into your Sensive and Figma accounts separately.</summary></entry><entry><title type="html">Adding Sketch files to Sensive</title><link href="http://localhost:4000/integrations-sketch-adding-files/" rel="alternate" type="text/html" title="Adding Sketch files to Sensive" /><published>2019-10-23T00:00:00-04:00</published><updated>2019-10-23T00:00:00-04:00</updated><id>http://localhost:4000/integrations-sketch-adding-files</id><content type="html" xml:base="http://localhost:4000/integrations-sketch-adding-files/">&lt;p&gt;To start syncing Sketch files to your Sensive account, you need to have the Sketch plugin installed and sign in to your account.&lt;/p&gt;
 
 &lt;ol&gt;
   &lt;li&gt;In Sketch, open an existing or create a new design file&lt;/li&gt;
@@ -141,20 +141,20 @@
   &lt;li&gt;In Sketch, click &lt;strong&gt;Plugins&lt;/strong&gt;&lt;/li&gt;
   &lt;li&gt;Click 🛎️ &lt;strong&gt;Sensive&lt;/strong&gt;&lt;/li&gt;
   &lt;li&gt;Click &lt;strong&gt;Toggle Panel&lt;/strong&gt;&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>Diego Fernandez</name></author><category term="featured" /><summary type="html">To start syncing Sketch files to your Sensive account, you need to have the Sketch plugin installed and sign in to your account.</summary></entry><entry><title type="html">Download the Sketch plugin</title><link href="https://localhost:4000/integrations-sketch-plugin/" rel="alternate" type="text/html" title="Download the Sketch plugin" /><published>2019-10-23T00:00:00-04:00</published><updated>2019-10-23T00:00:00-04:00</updated><id>https://localhost:4000/integrations-sketch-plugin</id><content type="html" xml:base="https://localhost:4000/integrations-sketch-plugin/">&lt;ol&gt;
-  &lt;li&gt;&lt;a href=&quot;https://sensive.co/sketch&quot;&gt;&lt;strong&gt;Download the latest version&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;</content><author><name>Diego Fernandez</name></author><category term="featured" /><summary type="html">To start syncing Sketch files to your Sensive account, you need to have the Sketch plugin installed and sign in to your account.</summary></entry><entry><title type="html">Download the Sketch plugin</title><link href="http://localhost:4000/integrations-sketch-plugin/" rel="alternate" type="text/html" title="Download the Sketch plugin" /><published>2019-10-23T00:00:00-04:00</published><updated>2019-10-23T00:00:00-04:00</updated><id>http://localhost:4000/integrations-sketch-plugin</id><content type="html" xml:base="http://localhost:4000/integrations-sketch-plugin/">&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://app.sensive.co/sketch&quot;&gt;&lt;strong&gt;Download the latest version&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;In your Downloads folder, double click the &lt;code class=&quot;highlighter-rouge&quot;&gt;sensive-sketch.sketchplugin&lt;/code&gt; file&lt;/li&gt;
   &lt;li&gt;Click &lt;strong&gt;OK&lt;/strong&gt; when prompted&lt;/li&gt;
   &lt;li&gt;In Sketch, &lt;strong&gt;sign in&lt;/strong&gt; or &lt;strong&gt;sign up&lt;/strong&gt; through the Sensive plugin window&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>Diego Fernandez</name></author><category term="featured" /><summary type="html">Download the latest version In your Downloads folder, double click the sensive-sketch.sketchplugin file Click OK when prompted In Sketch, sign in or sign up through the Sensive plugin window</summary></entry><entry><title type="html">Create a team</title><link href="https://localhost:4000/teams-create-team/" rel="alternate" type="text/html" title="Create a team" /><published>2019-10-23T00:00:00-04:00</published><updated>2019-10-23T00:00:00-04:00</updated><id>https://localhost:4000/teams-create-team</id><content type="html" xml:base="https://localhost:4000/teams-create-team/">&lt;ol&gt;
-  &lt;li&gt;Visit &lt;a href=&quot;https://sensive.co/create_team&quot;&gt;sensive.co/create_team&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;</content><author><name>Diego Fernandez</name></author><category term="featured" /><summary type="html">Download the latest version In your Downloads folder, double click the sensive-sketch.sketchplugin file Click OK when prompted In Sketch, sign in or sign up through the Sensive plugin window</summary></entry><entry><title type="html">Create a team</title><link href="http://localhost:4000/teams-create-team/" rel="alternate" type="text/html" title="Create a team" /><published>2019-10-23T00:00:00-04:00</published><updated>2019-10-23T00:00:00-04:00</updated><id>http://localhost:4000/teams-create-team</id><content type="html" xml:base="http://localhost:4000/teams-create-team/">&lt;ol&gt;
+  &lt;li&gt;Visit &lt;a href=&quot;https://app.sensive.co/create_team&quot;&gt;sensive.co/create_team&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Enter a new Team Name&lt;/li&gt;
   &lt;li&gt;&lt;em&gt;Optional&lt;/em&gt;: Add teammate emails&lt;/li&gt;
   &lt;li&gt;Click &lt;strong&gt;Continue&lt;/strong&gt;&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>Diego Fernandez</name></author><summary type="html">Visit sensive.co/create_team Enter a new Team Name Optional: Add teammate emails Click Continue</summary></entry><entry><title type="html">Invite people to join your team</title><link href="https://localhost:4000/teams-invite-people/" rel="alternate" type="text/html" title="Invite people to join your team" /><published>2019-10-23T00:00:00-04:00</published><updated>2019-10-23T00:00:00-04:00</updated><id>https://localhost:4000/teams-invite-people</id><content type="html" xml:base="https://localhost:4000/teams-invite-people/">&lt;ol&gt;
-  &lt;li&gt;Visit &lt;a href=&quot;https://sensive.co/team&quot;&gt;sensive.co/team&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;</content><author><name>Diego Fernandez</name></author><summary type="html">Visit sensive.co/create_team Enter a new Team Name Optional: Add teammate emails Click Continue</summary></entry><entry><title type="html">Invite people to join your team</title><link href="http://localhost:4000/teams-invite-people/" rel="alternate" type="text/html" title="Invite people to join your team" /><published>2019-10-23T00:00:00-04:00</published><updated>2019-10-23T00:00:00-04:00</updated><id>http://localhost:4000/teams-invite-people</id><content type="html" xml:base="http://localhost:4000/teams-invite-people/">&lt;ol&gt;
+  &lt;li&gt;Visit &lt;a href=&quot;https://app.sensive.co/team&quot;&gt;sensive.co/team&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Add teammate email&lt;/li&gt;
   &lt;li&gt;Click &lt;strong&gt;Send Invite&lt;/strong&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;The recipient should receive an email with instructions to join your team&lt;/p&gt;</content><author><name>Diego Fernandez</name></author><summary type="html">Visit sensive.co/team Add teammate email Click Send Invite</summary></entry><entry><title type="html">Teams Join Team</title><link href="https://localhost:4000/teams-join-team/" rel="alternate" type="text/html" title="Teams Join Team" /><published>2019-10-23T00:00:00-04:00</published><updated>2019-10-23T00:00:00-04:00</updated><id>https://localhost:4000/teams-join-team</id><content type="html" xml:base="https://localhost:4000/teams-join-team/"></content><author><name>The Sensive Team</name><email>support@sensive.co</email></author><summary type="html"></summary></entry><entry><title type="html">Teams Manage Team</title><link href="https://localhost:4000/teams-manage-team/" rel="alternate" type="text/html" title="Teams Manage Team" /><published>2019-10-23T00:00:00-04:00</published><updated>2019-10-23T00:00:00-04:00</updated><id>https://localhost:4000/teams-manage-team</id><content type="html" xml:base="https://localhost:4000/teams-manage-team/"></content><author><name>The Sensive Team</name><email>support@sensive.co</email></author><summary type="html"></summary></entry></feed>
+&lt;p&gt;The recipient should receive an email with instructions to join your team&lt;/p&gt;</content><author><name>Diego Fernandez</name></author><summary type="html">Visit sensive.co/team Add teammate email Click Send Invite</summary></entry><entry><title type="html">Teams Join Team</title><link href="http://localhost:4000/teams-join-team/" rel="alternate" type="text/html" title="Teams Join Team" /><published>2019-10-23T00:00:00-04:00</published><updated>2019-10-23T00:00:00-04:00</updated><id>http://localhost:4000/teams-join-team</id><content type="html" xml:base="http://localhost:4000/teams-join-team/"></content><author><name>The Sensive Team</name><email>support@sensive.co</email></author><summary type="html"></summary></entry><entry><title type="html">Teams Manage Team</title><link href="http://localhost:4000/teams-manage-team/" rel="alternate" type="text/html" title="Teams Manage Team" /><published>2019-10-23T00:00:00-04:00</published><updated>2019-10-23T00:00:00-04:00</updated><id>http://localhost:4000/teams-manage-team</id><content type="html" xml:base="http://localhost:4000/teams-manage-team/"></content><author><name>The Sensive Team</name><email>support@sensive.co</email></author><summary type="html"></summary></entry></feed>
