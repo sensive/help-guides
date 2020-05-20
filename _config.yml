@@ -2,9 +2,6 @@
 title: Sensive Help Guides
 timezone: America/New_York
 collections:
-  articles:
-    title: Articles
-    output: true
   changelog:
     title: Changelog
     output: false
