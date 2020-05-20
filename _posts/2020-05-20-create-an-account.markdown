@@ -1,6 +1,8 @@
 ---
 title: Create an Account
 date: 2020-05-20 17:49:00 -04:00
+tags:
+- featured
 ---
 
 - Visit [**sensive.co/sign_up**](https://app.sensive.co/sign_up)
