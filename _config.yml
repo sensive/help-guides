@@ -12,7 +12,7 @@ collections:
     title: Uploads
     output: true
 description: Sensive is a better way to manage your team’s design resources
-baseurl: ''
+baseurl: 
 permalink: "/:title/"
 url: https://help.sensive.co
 logo_image:
@@ -41,7 +41,7 @@ disqus:
   shortname: 
 google_analytics: 
 google_maps_api_key: 
-post_assets: "/assets/posts/"
+post_assets: "/assets/articles/"
 markdown: kramdown
 highlighter: rouge
 gems:
