@@ -3,7 +3,7 @@ title: Sensive Help Guides
 timezone: UTC
 collections:
   articles:
-    title: Posts
+    title: Articles
     output: true
   posts:
     title: Posts
