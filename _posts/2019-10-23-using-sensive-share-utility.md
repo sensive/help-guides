@@ -1,7 +1,10 @@
 ---
+title: Share a Collection, Presentation or Board
+date: 2019-10-23 00:00:00 Z
+categories:
+- Using Sensive
+- Utilities
 layout: post
-title: Share a Collection, Presentation or Board 
-categories: [Using Sensive, Utilities]
 author: Diego Fernandez
 ---
 

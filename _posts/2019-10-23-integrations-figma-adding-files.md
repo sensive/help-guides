@@ -1,9 +1,13 @@
 ---
-layout: post
 title: Add Figma files to Sensive
-categories: [Integrations, Figma]
+date: 2019-10-23 00:00:00 Z
+categories:
+- Integrations
+- Figma
+tags:
+- featured
+layout: post
 author: Diego Fernandez
-tag: featured
 ---
 
 To start syncing Figma files to your Sensive account, you first need to authenticate your Figma account.

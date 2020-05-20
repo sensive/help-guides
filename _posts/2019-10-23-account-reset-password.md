@@ -1,9 +1,12 @@
 ---
-layout: post
 title: Trouble signing in
-categories: [Getting Started]
+date: 2019-10-23 00:00:00 Z
+categories:
+- Getting Started
+layout: post
 author: Diego Fernandez
 ---
+
 Before you reset your password verify the information you are entering is correct.
 
 **To reset your password**:

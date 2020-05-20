@@ -1,9 +1,13 @@
 ---
-layout: post
 title: Download the Sketch plugin
-categories: [Integrations, Sketch]
+date: 2019-10-23 00:00:00 Z
+categories:
+- Integrations
+- Sketch
+tags:
+- featured
+layout: post
 author: Diego Fernandez
-tag: featured
 ---
 
 1. [**Download the latest version**](https://app.sensive.co/sketch)

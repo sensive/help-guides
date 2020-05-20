@@ -1,9 +1,13 @@
 ---
-layout: post
 title: Authenticating with Figma
-categories: [Integrations, Figma]
+date: 2019-10-26 00:00:00 Z
+categories:
+- Integrations
+- Figma
+layout: post
 author: Diego Fernandez
 ---
+
 To start syncing Figma files to your Sensive account, you need to sign in into your Sensive and Figma accounts separately.
 
 - Visit [**sensive.co/home**](https://app.sensive.co/home)

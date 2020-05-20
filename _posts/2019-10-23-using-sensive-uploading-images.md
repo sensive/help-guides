@@ -1,7 +1,10 @@
 ---
-layout: post
 title: Uploading images
-categories: [Using Sensive, Utilities]
+date: 2019-10-23 00:00:00 Z
+categories:
+- Using Sensive
+- Utilities
+layout: post
 author: Diego Fernandez
 ---
 

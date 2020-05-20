@@ -1,9 +1,12 @@
 ---
-layout: post
 title: Invite people to join your team
-categories: [Getting Started]
+date: 2019-10-23 00:00:00 Z
+categories:
+- Getting Started
+layout: post
 author: Diego Fernandez
 ---
+
 1. Visit [sensive.co/team](https://app.sensive.co/team)
 2. Add teammate email
 3. Click **Send Invite**

@@ -1,7 +1,8 @@
 ---
-layout: page
 title: Thanks
-permalink: /thanks/
+permalink: "/thanks/"
+position: 1
+layout: page
 ---
 
 diego was here

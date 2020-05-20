@@ -1,7 +1,11 @@
 ---
-layout: post
 title: Collections
-categories: [Using Sensive, Utilities, Collections]
+date: 2019-10-23 00:00:00 Z
+categories:
+- Using Sensive
+- Utilities
+- Collections
+layout: post
 author: Diego Fernandez
 ---
 

@@ -1,10 +1,15 @@
 ---
-layout: post
 title: Adding Sketch files to Sensive
-categories: [Integrations, Sketch]
+date: 2019-10-23 00:00:00 Z
+categories:
+- Integrations
+- Sketch
+tags:
+- featured
+layout: post
 author: Diego Fernandez
-tag: featured
 ---
+
 To start syncing Sketch files to your Sensive account, you need to have the Sketch plugin installed and sign in to your account.
 
 1. In Sketch, open an existing or create a new design file
