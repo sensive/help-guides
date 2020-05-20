@@ -5,6 +5,9 @@ collections:
   articles:
     title: Posts
     output: true
+  test:
+    title: Posts
+    output: true
   posts:
     title: Posts
     output: true
