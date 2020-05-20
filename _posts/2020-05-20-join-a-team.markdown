@@ -1,5 +1,5 @@
 ---
-title: Join a Team
-date: 2020-05-20 17:54:00 -04:00
+title: Teams Join Team
+date: 2019-10-23 00:00:00 Z
 ---
 

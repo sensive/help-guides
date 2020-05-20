@@ -9,7 +9,7 @@ layout:
     "home_page_url": "{{ "/" | absolute_url }}",
     "feed_url": "{{ "/feed.json" | absolute_url }}",
     "user_comment": "Sensive Help Guides",
-    "items": [{% for post in site.posts limit:10 %}
+    "items": [{% for post in site.posts limit:20 %}
         {
             "id": "{{ post.url | absolute_url }}",
             "url": "{{ post.url | absolute_url }}",
