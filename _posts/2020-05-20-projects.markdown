@@ -6,7 +6,7 @@ tags:
 - getting-started
 ---
 
-![projects-screenshot@2x.png](/assets/posts/projects-screenshot@2x.png)
+![projects-screenshot@2x.png](https://sensive-production.s3.amazonaws.com/bBZFKtkyUyLM6g2iaifesMrT)
 
 **Projects are a way to manage tasks and milestones in bulk**. A Project can contain Sections, and you can show each **Section** as a prioritized list of as a **Kanban Board**.
 
