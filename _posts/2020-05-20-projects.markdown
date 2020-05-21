@@ -1,11 +1,12 @@
 ---
 title: Projects
 date: 2020-05-20 20:13:00 -04:00
+layout: post
 tags:
 - getting-started
 ---
 
-![CleanShot 2020-05-20 at 22.35.16@2x.png](/uploads/CleanShot%202020-05-20%20at%2022.35.16@2x.png)
+![projects-screenshot@2x.png](/assets/posts/projects-screenshot@2x.png)
 
 **Projects are a way to manage tasks and milestones in bulk**. A Project can contain Sections, and you can show each **Section** as a prioritized list of as a **Kanban Board**.
 
