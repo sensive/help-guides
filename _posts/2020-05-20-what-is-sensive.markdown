@@ -5,6 +5,6 @@ tags:
 - getting-started
 ---
 
-Whether you are operating a freelance business, an agency, or a startup, Sensive can help you manage your creative projects, organize your assets, and keep everything centralized in one platform.
+Whether you are operating a freelance business, an agency, or a startup, Sensive can help you **manage your creative projects, organize your assets**, and keep everything centralized in one platform.
 
-Sensive is a platform built to adapt to your workflow.
+**Sensive is a platform built to adapt to your workflow.**
