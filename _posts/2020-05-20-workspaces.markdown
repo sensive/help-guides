@@ -5,7 +5,7 @@ tags:
 - getting-started
 ---
 
-**The magic of collaboration happens in Workspaces**. A digital agency might have a Workspace per account to manage Projects and deliverable assets, while a small startup might centralize their operations, creating a Workspace for each department.
+**The magic of collaboration happens in Workspaces**. A digital agency might have a Workspace per account to manage client projects, while a small startup might centralize their operations, creating a Workspace for each department within the organization.
 
 When you sign into Sensive, you will see a list of all the Workspaces for which you are a collaborator.
 
