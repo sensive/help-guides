@@ -16,7 +16,8 @@ layout:
             "title": {{ post.title | jsonify }},
             "content_html": {{ post.content | jsonify }},
             "date_published": "{{ post.date | date_to_xmlschema }}",
-            "tags": "{{ post.tags }}"
+            "tags": {{ post.tags | jsonify }},
+            "categories": {{ post.categories | jsonify }}
         }{% unless forloop.last %},{% endunless %}{% endfor %}
     ]
 }
