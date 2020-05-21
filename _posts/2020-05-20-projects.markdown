@@ -1,9 +1,9 @@
 ---
 title: Projects
 date: 2020-05-20 20:13:00 -04:00
-layout: post
 tags:
 - getting-started
+layout: post
 ---
 
 ![projects-screenshot@2x.png](https://sensive-production.s3.amazonaws.com/bBZFKtkyUyLM6g2iaifesMrT)
