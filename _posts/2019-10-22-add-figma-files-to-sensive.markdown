@@ -6,28 +6,28 @@ categories:
 - Figma
 tags:
 - featured
-layout: post
 author: Diego Fernandez
+layout: post
 ---
 
-To start syncing Figma files to your Sensive account, you first need to authenticate your Figma account.
+To start syncing Figma files to your Sensive account, you first need to [authenticate your Figma account](https://help.sensive.co/authenticating-with-figma/).
 
-- **In Figma**, open an existing or create a new design file
+* **In Figma**, open an existing or create a new design file
 
-- Click **Share**
+* Click **Share**
 
-- Click **Copy link**
+* Click **Copy link**
 
 {% include image.html img="2019-10-23-integrations-figma-adding-files-1.png" alt="Figma share file modal" %}
 
-- Visit [**sensive.co/home**](https://app.sensive.co/home)
+* Visit **[sensive.co/home](https://app.sensive.co/home)**
 
-- Click **Upload File**
+* Click **Upload File**
 
-- Click **Add Figma File**
+* Click **Add Figma File**
 
-- Paste the link you copied from Figma
+* Paste the link you copied from Figma
 
-- Click **Submit**
+* Click **Submit**
 
 {% include image.html img="2019-10-23-integrations-figma-adding-files-2.png" alt="Figma share file modal" %}
