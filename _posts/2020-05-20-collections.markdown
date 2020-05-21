@@ -1,6 +1,6 @@
 ---
 title: Collections
-date: 2020-05-20 20:16:00 -04:00
+date: 2020-05-20 20:11:00 -04:00
 tags:
 - getting-started
 ---
