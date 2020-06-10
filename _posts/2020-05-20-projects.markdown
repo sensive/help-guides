@@ -8,7 +8,7 @@ layout: post
 
 ![projects-screenshot@2x.png](https://sensive-production.s3.amazonaws.com/bBZFKtkyUyLM6g2iaifesMrT)
 
-**Projects are a way to manage tasks and milestones in bulk. **A Project can contain Sections, and you can show each Section as a List or a Kanban Board.
+**Projects are a way to manage tasks and milestones in bulk**.  A Project can contain Sections, and you can show each Section as a List or a Kanban Board.
 
 Lists allow you to prioritize your tasks, while boards make it easy to visualize the work. Here at Sensive, we plan our Engineering Sprints as lists withing sections and display our active sprint as a board.
 
